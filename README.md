@@ -1,4 +1,4 @@
-# 📄 Document Scanner App
+# 📄 Document Scanner App(PDFit)
 
 > Smart. Offline. Ad-Free.  
 > Made for everyday use.
